@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ---
 # 参考資料
-## https://typescriptbook.jp/tutorials/nextjs
+## Next.jsで猫画像ジェネレーターを作ろう
 https://typescriptbook.jp/tutorials/nextjs
 
 ## Vercelにデプロイしてみよう
